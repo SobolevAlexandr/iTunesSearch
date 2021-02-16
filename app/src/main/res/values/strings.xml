@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">iTunes Search</string>
+    <string name="list_item_author">Author:</string>
+    <string name="list_item_name">Name:</string>
+    <string name="menu_title_show_favorites">Show favorites</string>
+    <string name="filter_button_all">All</string>
+    <string name="filter_button_music">Music</string>
+    <string name="filter_button_movie">Movie</string>
+    <string name="filter_button_software">Software</string>
+    <string name="fragment_search">@string/app_name</string>
+    <string name="fragment_favorites">Favorites</string>
+    <string name="general_error">Something went wrong</string>
+    <string name="dialog_confirmation_text">Do you really want to delete it?</string>
+    <string name="dialog_yes">Yes</string>
+    <string name="dialog_no">No</string>
+</resources>

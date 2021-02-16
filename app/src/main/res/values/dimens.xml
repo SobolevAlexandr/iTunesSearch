@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size">14sp</dimen>
+    <dimen name="photo_image_size">100dp</dimen>
+    <dimen name="filter_button_text_size">13sp</dimen>
+    <dimen name="filter_button_padding">4dp</dimen>
+</resources>
